@@ -1,3 +1,3 @@
 "HI" 
 "Phuripat Bungwai" 
-"Phuripatr Bungwai" 
+"Copter"
